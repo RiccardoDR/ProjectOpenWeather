@@ -169,7 +169,7 @@ risposta:
 Un possibile caso di implementazione della nostra applicazione potrebbe essere l'utilizzo urbano che prevede l'accensione e lo spegnimento dell'illuminazione pubblica in base a orario di alba e tramonto. Così da rendere automatico e più efficiente l'illuminazione pubblica ed evitando sprechi di corrente.
 
 ## Autore
-Nome | contributo | email |
+Nome| email |
 De Ritis Riccardo | S1094657@studenti.univpm.it |
 
 
